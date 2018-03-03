@@ -1,0 +1,30 @@
+*************************************************************
+FileName = 新塘10W双线圈苹果8快速无线充电.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : 新塘10W双线圈苹果8快速无线充电.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : 新塘10W双线圈苹果8快速无线充电.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+*************************************************************
+
